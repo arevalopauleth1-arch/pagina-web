@@ -1,0 +1,5 @@
+vortex-fighters-overdrive/
+│
+├── index.html       # Motor del juego, shaders, física y UI (Todo en uno para ejecución instantánea)
+├── README.md        # Documentación profesional para GitHub
+└── .gitignore       # Archivo de exclusión estándar para proyectos web
